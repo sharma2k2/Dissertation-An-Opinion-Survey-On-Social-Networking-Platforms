@@ -66,7 +66,7 @@ Collaborators:
 
 ## 📌 Connect with Me:
 - 📬 Email: kavitasharma262002@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/kavitasharma](https://linkedin.com/in/kavitasharma)
+- 🔗 LinkedIn: [linkedin.com/in/kavitasharma](https://www.linkedin.com/in/kavita-sharma-353296329)
 - 📊 GitHub Projects: Explore data surveys, Python visualizations & statistical models.
 
 ---
